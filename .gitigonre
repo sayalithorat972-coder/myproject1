@@ -1,0 +1,5 @@
+mypass.txt
+images/*
+!images/bye.jpg
+myinfo.txt
+!myadta/file5
